@@ -21,7 +21,7 @@ Soldering and wiring of the sensors inside the satellite, Arduino and
 Python code, system assembly.
 
 ## Sample output
-![Serial output](images/serial_output.png)
+![Serial output](cubesat-sensor-system/images/serial_output.png)
 
 ## Team
 Project built by a team of 5 students, supervised by Prof. Mohamed Youssef
